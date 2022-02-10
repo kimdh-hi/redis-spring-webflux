@@ -17,7 +17,7 @@
         <dependency>
             <groupId>org.redisson</groupId>
             <artifactId>redisson</artifactId>
-            <version>3.16.0</version>
+            <version>3.16.1</version>
         </dependency>
         <dependency>
             <groupId>org.projectlombok</groupId>
@@ -37,7 +37,6 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-
     <dependencyManagement>
         <dependencies>
             <dependency>
@@ -49,7 +48,6 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
-
     <build>
         <plugins>
             <plugin>
